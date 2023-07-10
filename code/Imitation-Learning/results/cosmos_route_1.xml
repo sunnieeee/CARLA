@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+b'<route id="1" town="Carla/Maps/cosmos2">\n
+<waypoint x="17.013071" y="181.179550" z="25.580479" pitch="-1.051514" yaw="-61.279732" roll="-0.000000" />\n
+<waypoint  x="100.093056" y="31.953121" z="18.849386" pitch="-7.264159" yaw="-60.850281" roll="0.002550"/>\n
+<waypoint x="255.572296" y="-250.717880" z="9.132993" pitch="2.475834" yaw="-60.533504" roll="0.520532"/>\n
+</route>\n'
+</routes>
+

@@ -1,0 +1,11 @@
+carla==0.9.13
+numpy
+Pillow==7.0.0
+future==0.18.2
+gym==0.23.1
+pygame==1.9.6
+tensorflow==2.5.0
+tqdm==4.43.0
+wandb==0.8.29
+watchdog==0.10.2
+
